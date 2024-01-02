@@ -8,7 +8,7 @@ parameters is also my implementation and corresponds to Algorithm 1 in the paper
 Benchmarking has codes that generate fig 1,2,and 3 in the paper
 All the rest of the matlab files were implemented by Higham and downloaded from mathlab file Exchange
 
-Gridelines on Julia Functions 
+Guidelines on Julia Functions 
 function parameters corresponds to Algorithm 1 in the paper
 function impexp corresponds to Algorithm 2 in the paper
 function densityinv calculate relative error for different matrix density
